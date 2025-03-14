@@ -1,5 +1,11 @@
 <h2 align="center">Want to Help? Click the Star in the Upper-Right Corner! ⭐</h2>
 
+Useful Guides (PlexGuide Install Below)
+
+1. https://github.com/plexguide/Unraid_Intel-ARC_Deployment
+2. https://github.com/plexguide/AV1-AppleTV
+3. https://github.com/Admin9705/Multi-Session-PLEX-Killer
+
 ### ⚡ Quick Install Command
 
 ```bash
