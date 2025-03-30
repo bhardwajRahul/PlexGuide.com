@@ -6,7 +6,8 @@ Useful Guides (PlexGuide Install Below)
 2. https://github.com/plexguide/AV1-AppleTV
 3. https://github.com/Admin9705/Multi-Session-PLEX-Killer
 4. https://github.com/plexguide/Sonarr-Hunter/
-5. https://github.com/plexguide/Tautulli-Sleep-Timeout-Fix-Unraid
+5. https://github.com/plexguide/Radarr-Hunter
+6. https://github.com/plexguide/Tautulli-Sleep-Timeout-Fix-Unraid
 
 ### ⚡ Quick Install Command
 
