@@ -16,7 +16,7 @@ Useful Guides (PlexGuide Install Below)
 
 Note: A future simple solution that deploys radarr, sonarr, lidarr, SABNZBD, and CloudFlare Tunnel is being considered. Users can deploy their own docker containers for anything extra.
 
-My suggestion is to use UNRAID due to merging HD's, utilizes linux, and easy manage to appstore and runs in the memory to make everything work!
+My suggestion is to use UNRAID due to merging HD's, utilizes linux, and a simple easy to use appstore.
 
 ### ⚡ Quick Install Command
 
