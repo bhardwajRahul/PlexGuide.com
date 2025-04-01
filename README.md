@@ -11,7 +11,7 @@ Useful Guides (PlexGuide Install Below)
 
 
 
-####################################### PG IS NO LONGER BEING DEVLOPED #######################################
+### PG IS NO LONGER BEING DEVLOPED ###
 
 Note: A future simple solution that deploys radarr, sonarr, lidarr, SABNZBD, and CloudFlare Tunnel is being considered. Users can deploy their own docker containers for anything extra.
 
