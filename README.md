@@ -9,6 +9,12 @@ Useful Guides (PlexGuide Install Below)
 5. https://github.com/plexguide/Radarr-Hunter
 6. https://github.com/plexguide/Tautulli-Sleep-Timeout-Fix-Unraid
 
+
+
+####################################### PG IS NO LONGER BEING DEVLOPED #######################################
+
+Note: A future simple solution that deploys radarr, sonarr, lidarr, SABNZBD, and CloudFlare Tunnel is being considered. Users can deploy their own docker containers for anything extra.
+
 ### ⚡ Quick Install Command
 
 ```bash
