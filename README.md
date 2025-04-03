@@ -5,7 +5,7 @@ Useful Guides (PlexGuide Install Below)
 1. https://github.com/plexguide/Unraid_Intel-ARC_Deployment
 2. https://github.com/plexguide/AV1-AppleTV
 3. https://github.com/Admin9705/Multi-Session-PLEX-Killer
-4. https://github.com/plexguide/Sonarr-Hunter
+4. https://github.com/plexguide/Hunter-4-Sonarr
 5. https://github.com/plexguide/Radarr-Hunter
 6. https://github.com/plexguide/Lidarr-Hunter
 7. https://github.com/plexguide/Tautulli-Sleep-Timeout-Fix-Unraid
