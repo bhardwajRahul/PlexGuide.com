@@ -79,3 +79,6 @@ Additional Tasks
 
 **Example of HD Management with PlexGuide**<br>
 <img src="https://i.imgur.com/muqXL24.jpeg" alt="Menu Example" width="500">
+
+![image](https://github.com/user-attachments/assets/47ab5a4e-30b4-45bd-9720-8ded19ce5020)
+
