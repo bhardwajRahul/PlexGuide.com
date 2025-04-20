@@ -4,7 +4,7 @@ Useful Guides (PlexGuide Install Below)
 
 1. https://github.com/plexguide/Unraid_Intel-ARC_Deployment
 2. https://github.com/plexguide/Huntarr-Sonarr
-3. https://github.com/plexguide/Huntarr-Readarr
+3. https://github.com/plexguide/Huntarr-Radarr
 4. https://github.com/plexguide/Huntarr-Lidarr
 5. https://github.com/plexguide/Huntarr-Readarr
 6. https://github.com/plexguide/AV1-AppleTV
